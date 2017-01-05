@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoftGroupTestWork</string>
+    <string name="R">R</string>
+    <string name="G">G</string>
+    <string name="B">B</string>
+    <string name="Button">Generate</string>
+</resources>
